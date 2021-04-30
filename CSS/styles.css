@@ -15,11 +15,12 @@ background-color: hsl(233, 47%, 7%);
 border-radius: 0.5%;
 height: 350px;
 width: 450px;
-margin: 100px 150px 100px;
+margin-left: 150px;
+margin-top: 200px;
 }
 .card {
   color: hsla(0, 0%, 100%, 0.6);
-margin-left: -10px;
+margin-left: 100px;
   height: 350px;
   width: 450px;
   position: absolute;
