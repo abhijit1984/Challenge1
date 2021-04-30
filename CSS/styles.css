@@ -36,7 +36,7 @@ margin-left: 65px;
 margin-top: 40px;
     height: 350px;
   width: 450px;
-  position: fixed;
+  position: absolute;
   line-height: 20px;
   padding-right: 50px;
   font-family: Inter;
