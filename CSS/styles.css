@@ -3,7 +3,7 @@ body
 background-color: hsl(233, 47%, 7%);
 }
 .main1 {
-  background-color: hsl(277, 64%, 61%);
+  background-color: hsl(277, 64%, 61%),
   margin-left: 450px;
   margin-top: 0;
     height: 350px;
